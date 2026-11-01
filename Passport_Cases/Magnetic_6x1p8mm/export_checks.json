@@ -1,0 +1,24 @@
+{
+  "Standard": {
+    "status": "PASS",
+    "exported_printable_meshes": 3,
+    "magnet_bores_checked": 4,
+    "pocket_seating_floor_checked": true,
+    "opening_positions_checked": 18,
+    "maximum_intersection_mm3": 0.0,
+    "magnet_xy_alignment": "PASS",
+    "pad_surface_gap_mm": 0.2,
+    "stl_round_trip": "PASS"
+  },
+  "X2": {
+    "status": "PASS",
+    "exported_printable_meshes": 3,
+    "magnet_bores_checked": 4,
+    "pocket_seating_floor_checked": true,
+    "opening_positions_checked": 18,
+    "maximum_intersection_mm3": 0.0,
+    "magnet_xy_alignment": "PASS",
+    "pad_surface_gap_mm": 0.2,
+    "stl_round_trip": "PASS"
+  }
+}

@@ -1,5 +1,30 @@
 # 3D designs
 
+## Magnetic passport cases — 6 × 1.8 mm magnets
+
+**[Download the complete ZIP](https://github.com/korhag/3D_designs/raw/refs/heads/main/Passport_Cases/Magnetic_6x1p8mm/Magnetic_Passport_Cases_6x1p8mm.zip)**
+
+Magnet-closure versions of the Slim Passport Case v2 and deeper X2 model. Each
+case uses four 6 mm diameter × 1.8 mm thick magnets in 6.2 mm diameter × 2.0 mm
+deep recesses. External pads preserve the original interior space; the plastic
+retaining bumps are removed and the central flexible latch is replaced by a
+plain rim. The original hinge is retained.
+
+- [Standard case — 3MF](Passport_Cases/Magnetic_6x1p8mm/Slim_Passport_Case_v2_Standard_Magnetic_6x1p8mm.3mf)
+- [X2 case — 3MF](Passport_Cases/Magnetic_6x1p8mm/Slim_Passport_Case_v2_X2_Magnetic_6x1p8mm.3mf)
+- [Magnet-pocket fit test — print first](Passport_Cases/Magnetic_6x1p8mm/Magnet_Pocket_Fit_Test_6x1p8mm.3mf)
+- [Printing, magnet installation and validation details](Passport_Cases/Magnetic_6x1p8mm/PRINT_AND_ASSEMBLY.md)
+
+The ZIP includes the 3MFs, STL alternatives, previews, source scripts and
+instructions. Import at **100% scale** and select your own printer and filament.
+Keep the two hinge halves together in their supplied print-open position.
+
+Both versions passed digital mesh and closure-clearance checks at 18 opening
+positions. These are unprinted prototypes; physical fit, adhesive retention and
+magnetic holding strength have not been tested. Print the small fit coupon first.
+Original case design: **Wet PLA Guru**; the supplied source files identify their
+license as **Standard Digital File License — Community Use**.
+
 ## Stackable baskets — 255 × 255 × 200 mm
 
 Two single-piece, printable 3MF models, intended for PETG. Dimensions are the

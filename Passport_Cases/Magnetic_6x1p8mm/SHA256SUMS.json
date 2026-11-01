@@ -1,0 +1,19 @@
+{
+  "Document_Pocket_Unchanged.stl": "0ce317294f5d534dfb4a7f85b2479199abb2df4cd8e13f1fb1303968d2a5bb7a",
+  "Magnet_Pocket_Fit_Test_6x1p8mm.3mf": "0b9cd98020446e30227a128a6e1597547be2307de354b8fc57788178e39dd13e",
+  "Magnet_Pocket_Fit_Test_6x1p8mm.stl": "c04453b2ee9c23771bdc80a943e080f15d4a7dfe17e619c4fbeeb84f1cb222c4",
+  "PRINT_AND_ASSEMBLY.md": "ea754f74c2aec38043bf2f9e0b35233725b7a13f3626ac5a2f5c4084f28a1e6a",
+  "Slim_Passport_Case_v2_Standard_Magnetic_6x1p8mm.3mf": "55fc3f85533b7ddbc543c5a08fe2238dda72493cbabc9caef2cf0613ea01b264",
+  "Slim_Passport_Case_v2_Standard_Magnetic_6x1p8mm_Assembly.stl": "fde56b8486ea973f595a321e8725e1b13f988f28a1f73ac9069be6dc6ea7bb80",
+  "Slim_Passport_Case_v2_X2_Magnetic_6x1p8mm.3mf": "29f31e9e496ea4753bc4e1556f8a82038b3ad0ee90e99ed856f6ee2c68160ec5",
+  "Slim_Passport_Case_v2_X2_Magnetic_6x1p8mm_Assembly.stl": "75e6b4de5b2aeb5c8ba441fd6c0051edaa43d4ac5d85f9d9fb9e1ed09b94e01c",
+  "Source/README.md": "2e1815898837b195923d4aac98d1390d9cfe453867748a2b11472c60ba84091a",
+  "Source/case_geometry.py": "a246cd65b1a7bf694f08d2cafe89a0b046c5172e3441bb873bdc057e7dcf7424",
+  "Source/generate_magnetic_cases.py": "3eb533d02b92108231c61984390b01a620f30524c60c1d892ed52e781fce55f5",
+  "Source/requirements.txt": "b45b50bf469f270d83fe0e83ead6580b8cb5a9ffadb71316f4cb95f9fb112add",
+  "Source/validate_exports.py": "56e50144bbc93926f2cb3b6e60c1e33320a82c728b25d8a72d3249e0ad4b0bae",
+  "Standard_open_preview.png": "b863cfa6b62f0d4c161d0bddfe651e43d5429ab0f267f9d1e0d07aa44ee22580",
+  "X2_closed_preview.png": "3cbd9c785594130e6a0fe53a44eb81e248bfc9914bf2e2592b9bc9d846783243",
+  "export_checks.json": "b4ad0b3a9272f81cd0fa00706317d58d66a8920c0482381ef409f5efd9840b05",
+  "validation.json": "c30306ed874ddb246edf2cd030425f4ef5780ab16e0181a6e1b3184e74497cba"
+}
